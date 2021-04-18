@@ -1,7 +1,7 @@
 {
   "name": "judix",
   "version": "1.0.0",
-  "description": "A workable solution to a Challeger's programming test",
+  "description": "A workable solution to a Challenger's programming test",
   "private": true,
   "_output": "./output",
   "_delay":500,
