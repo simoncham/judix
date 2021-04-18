@@ -1,0 +1,14 @@
+{
+  "name": "judix",
+  "version": "1.0.0",
+  "description": "A workable solution to a Challeger's programming test",
+  "private": true,
+  "_output": "./output",
+  "_delay":500,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "exceljs": "^4.2.1",
+    "jsdom": "^16.5.3",
+    "linkedom": "^0.7.3"
+  }
+}
